@@ -1,4 +1,4 @@
-# DEPI-Challenge
+# DEPI-Challenge (Student Performance & Behavior Dataset)
 The Student Performance & Behavior Dataset is a comprehensive collection of 5,000 records obtained from a private educational institution. This dataset is designed to facilitate the analysis of various factors influencing student performance and behavior, enabling educators and researchers to develop strategies for academic improvement and behavioral interventions.
 This dataset serves as a valuable resource for educational researchers, data scientists, aiming to:
 
